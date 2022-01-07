@@ -1,5 +1,6 @@
 table {
   width: 20%;
+  height: 40%;
   border-collapse: collapse;
   table-layout: fixed;
 }
@@ -18,10 +19,8 @@ table input {
   align-items: center;
 }
 
-table tr,
-td {
+table tr {
   border: 1px solid gray;
-  padding: 4%;
 }
 
 #col-1 {
@@ -43,4 +42,14 @@ td {
 
 :-ms-input-placeholder {
   color: white;
+}
+
+button {
+  width: 100%;
+  height: 100%;
+  padding: 5%;
+}
+
+.orange {
+  background-color: orange;
 }
