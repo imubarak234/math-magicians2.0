@@ -5,15 +5,15 @@ Make simple calculations.
 Read a random math-related quote.
 
 ## Built with
-HTML
-CSS
-Git and Github
-VS Code
-React
+- HTML
+- CSS
+- Git and Github
+- VS Code
+- React
 
 ## Getting started
 To run the code, clone the repo using the command git clone https://github.com/imubarak234/Math-Magicians when the clone is complete you can cd to the file and open it up in your text editor. For more information on pulls and push on git checkout this link: https://guides.github.com/introduction/git-handbook/
-Run command `npm install` , `npm init -y` and `npm start` to run the applications 
+Run command `npm install` and `npm start` to run the applications 
 
 ## Contributing
 
