@@ -1,5 +1,3 @@
-/* eslint-disable react/prefer-stateless-function */
-
 import React, { useState } from 'react';
 import './calc.css';
 import calculate from '../logic/calculate';
@@ -13,9 +11,6 @@ const Calculator = () => {
   const inputDisplay = (e) => {
     let ans = {};
     let ans2;
-    // const  next1  = next;
-    // const  total1 = total;
-    // const operation1 = operation;
     const ans1 = {
       next,
       total,
