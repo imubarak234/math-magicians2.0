@@ -31,6 +31,7 @@ const Calculator = () => {
 
   return (
     <div className="tabs">
+      <h2>Math Calculator</h2>
       <table>
         <colgroup>
           <col span="3" id="col-1" />
