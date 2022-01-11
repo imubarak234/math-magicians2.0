@@ -1,5 +1,5 @@
 table {
-  width: 20%;
+  width: 95%;
   height: 40%;
   border-collapse: collapse;
   table-layout: fixed;
@@ -14,7 +14,6 @@ table input {
 .tabs {
   width: 100%;
   display: flex;
-  flex-direction: column;
   justify-content: center;
   align-items: center;
 }
