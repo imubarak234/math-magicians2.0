@@ -30,11 +30,11 @@ const Calculator = () => {
   };
 
   return (
-    <div className="tabs container d-md-flex">
-      <div>
-        <h2 className='h1'>Let's do Some Math!</h2>
+    <div className="tabs container d-flex">
+      <div className="w-50 align-self-start">
+        <h2 className="h1">Lets do Some Math!</h2>
       </div>
-      <div>
+      <div className="w-50">
         <h2>Math Calculator</h2>
         <table>
           <colgroup>
