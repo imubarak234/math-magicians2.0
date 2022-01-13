@@ -1,0 +1,392 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Series of testing, rendering the various components renders Calculator correctly 1`] = `
+<div
+  className="tabs container d-flex"
+>
+  <div
+    className="w-50 align-self-start"
+  >
+    <h2
+      className="h1"
+    >
+      Lets do Some Math!
+    </h2>
+  </div>
+  <div
+    className="w-50"
+  >
+    <h2>
+      Math Calculator
+    </h2>
+    <table>
+      <colgroup>
+        <col
+          id="col-1"
+          span="3"
+        />
+        <col
+          id="col-2"
+          span="1"
+        />
+      </colgroup>
+      <tr>
+        <th
+          colSpan="4"
+        >
+          <input
+            aria-label="o"
+            data-testid="input"
+            placeholder="0"
+            type="text"
+            value=""
+          />
+        </th>
+      </tr>
+      <tr>
+        <td>
+          <button
+            data-testid="AC"
+            name="AC"
+            onClick={[Function]}
+            type="button"
+          >
+            AC
+          </button>
+        </td>
+        <td>
+          <button
+            data-testid="+/-"
+            name="+/-"
+            onClick={[Function]}
+            type="button"
+          >
+            +/-
+          </button>
+        </td>
+        <td>
+          <button
+            data-testid="%"
+            name="%"
+            onClick={[Function]}
+            type="button"
+          >
+            %
+          </button>
+        </td>
+        <td>
+          <button
+            className="orange"
+            data-testid="÷"
+            name="÷"
+            onClick={[Function]}
+            type="button"
+          >
+            ÷
+          </button>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <button
+            data-testid="7"
+            name="7"
+            onClick={[Function]}
+            type="button"
+          >
+            7
+          </button>
+        </td>
+        <td>
+          <button
+            data-testid="8"
+            name="8"
+            onClick={[Function]}
+            type="button"
+          >
+            8
+          </button>
+        </td>
+        <td>
+          <button
+            data-testid="9"
+            name="9"
+            onClick={[Function]}
+            type="button"
+          >
+            9
+          </button>
+        </td>
+        <td>
+          <button
+            className="orange"
+            data-testid="x"
+            name="x"
+            onClick={[Function]}
+            type="button"
+          >
+            x
+          </button>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <button
+            data-testid="4"
+            name="4"
+            onClick={[Function]}
+            type="button"
+          >
+            4
+          </button>
+        </td>
+        <td>
+          <button
+            data-testid="5"
+            name="5"
+            onClick={[Function]}
+            type="button"
+          >
+            5
+          </button>
+        </td>
+        <td>
+          <button
+            data-testid="6"
+            name="6"
+            onClick={[Function]}
+            type="button"
+          >
+            6
+          </button>
+        </td>
+        <td>
+          <button
+            className="orange"
+            data-testid="-"
+            name="-"
+            onClick={[Function]}
+            type="button"
+          >
+            -
+          </button>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <button
+            data-testid="1"
+            name="1"
+            onClick={[Function]}
+            type="button"
+          >
+            1
+          </button>
+        </td>
+        <td>
+          <button
+            data-testid="2"
+            name="2"
+            onClick={[Function]}
+            type="button"
+          >
+            2
+          </button>
+        </td>
+        <td>
+          <button
+            data-testid="3"
+            name="3"
+            onClick={[Function]}
+            type="button"
+          >
+            3
+          </button>
+        </td>
+        <td>
+          <button
+            className="orange"
+            data-testid="+"
+            name="+"
+            onClick={[Function]}
+            type="button"
+          >
+            +
+          </button>
+        </td>
+      </tr>
+      <tr>
+        <td
+          colSpan="2"
+        >
+          <button
+            data-testid="0"
+            name="0"
+            onClick={[Function]}
+            type="button"
+          >
+            0
+          </button>
+        </td>
+        <td>
+          <button
+            data-testid="."
+            name="."
+            onClick={[Function]}
+            type="button"
+          >
+            .
+          </button>
+        </td>
+        <td>
+          <button
+            className="orange"
+            data-testid="="
+            name="="
+            onClick={[Function]}
+            type="button"
+          >
+            =
+          </button>
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>
+`;
+
+exports[`Series of testing, rendering the various components renders Footer correctly 1`] = `
+<div
+  className="footer"
+>
+  <footer
+    className="fixed-bottom bg-dark py-3"
+  >
+    <div
+      className="container"
+    >
+      <p
+        className="text-white text-center"
+      >
+        Copyright © designed 2022
+      </p>
+    </div>
+  </footer>
+</div>
+`;
+
+exports[`Series of testing, rendering the various components renders Home correctly 1`] = `
+<div
+  className="container mb-5"
+>
+  <h2
+    className="h1 my-5"
+  >
+    Welcome TO our Page!
+  </h2>
+  <p
+    className="h5 my-5"
+  >
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. In vero dolores tenetur dignissimos? Laborum fuga sit maxime eum veritatis dolor ipsam dolorem dolores amet, officia distinctio minima consequuntur aliquam ratione, sapiente explicabo architecto. Autem alias laudantium natus totam! Adipisci, autem. Eius distinctio modi mollitia incidunt eum accusamus fugiat dolor eligendi illum, architecto autem assumenda, sequi similique esse quas molestiae deleniti veritatis earum maiores animi repellendus tempora consequatur suscipit dolore! Facilis!
+  </p>
+  <p
+    className="h5 my"
+  >
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. In vero dolores tenetur dignissimos? Laborum fuga sit maxime eum veritatis dolor ipsam dolorem dolores amet, officia distinctio minima consequuntur aliquam ratione, sapiente explicabo architecto. Autem alias laudantium natus totam! Adipisci, autem. Eius distinctio modi mollitia incidunt eum accusamus fugiat dolor eligendi illum, architecto autem assumenda, sequi similique esse quas molestiae deleniti veritatis earum maiores animi repellendus tempora consequatur suscipit dolore! Facilis!
+  </p>
+</div>
+`;
+
+exports[`Series of testing, rendering the various components renders Navigation correctly 1`] = `
+<div
+  className="navs"
+>
+  <nav
+    className="navbar navbar-expand navbar-dark bg-dark"
+  >
+    <div
+      className="container"
+    >
+      <a
+        aria-current="page"
+        className="navbar-brand active"
+        href="/"
+        onClick={[Function]}
+      >
+        Math Magicians
+      </a>
+      <div>
+        <ul
+          className="navbar-nav"
+        >
+          <li
+            className="nav-item"
+          >
+            <a
+              aria-current="page"
+              className="nav-link active"
+              href="/"
+              onClick={[Function]}
+            >
+              Home
+            </a>
+          </li>
+          <li
+            className="nav-item"
+          >
+            <a
+              className="nav-link"
+              href="/calculator"
+              onClick={[Function]}
+            >
+              Calculator
+            </a>
+          </li>
+          <li
+            className="nav-item"
+          >
+            <a
+              className="nav-link"
+              href="/quotes"
+              onClick={[Function]}
+            >
+              Quotes
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+</div>
+`;
+
+exports[`Series of testing, rendering the various components renders Quotes correctly 1`] = `
+<div
+  className="container mb-5"
+>
+  <p
+    className="h5 my-4"
+  >
+     
+    Mathematics is not about numbers, equations, computattions, or algorithms: it is about understanding. - William Paul Thurston
+  </p>
+  <p
+    className="h5 my-4"
+  >
+     
+    Without mathematics, there’s nothing you can do. Everything around you is mathematics. Everything around you is numbers. - Shakuntala Devi, Indian writer and mental calculator
+  </p>
+  <p
+    className="h5 my-4"
+  >
+     
+    Pure mathematics is, in its way, the poetry of logical ideas. - Albert Einstein, German theoretical physicist
+  </p>
+  <p
+    className="h5 my-4"
+  >
+     
+    Mathematics knows no races or geographic boundaries; for mathematics, the cultural world is one country. - David Hilbert, German mathematician
+  </p>
+</div>
+`;
