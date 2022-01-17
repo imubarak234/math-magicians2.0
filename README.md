@@ -22,7 +22,8 @@ Contributions, issues, and features requests are welcome!
 Feel free to check the issues [page](https://github.com/imubarak234/Math-Magicians/issues)
 
 ## Live Demo
-
+[Heroku](https://math-magicians2-0.herokuapp.com/)
+[Netlify](https://maths-magicians20.netlify.app/)
 
 ## Show Your Support 
 
